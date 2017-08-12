@@ -11,4 +11,4 @@ is not possible, respond with `403 Forbidden`.
 Redirects are discouraged since they allow sloppy/bad client behaviour without
 providing any clear gain.  Clients that rely on redirects double up on
 server traffic and render TLS useless since sensitive data will already
- have been exposed during the first call.
+have been exposed during the first call.

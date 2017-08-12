@@ -9,6 +9,3 @@ work a user needs to do to try the API, e.g.:
 $ export TOKEN=... # acquire from dashboard
 $ curl -is https://$TOKEN@service.com/users
 ```
-
-If you use [prmd](https://github.com/interagent/prmd) to generate Markdown
-docs, you will get examples for each endpoint for free.
